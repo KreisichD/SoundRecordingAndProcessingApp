@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.master.soundprocessingapp.ListActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="51dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="@string/recs"
+        android:textAlignment="center"
+        android:textSize="30sp" />
+
+    <ListView
+        android:id="@+id/Itemslist"
+        android:layout_width="match_parent"
+        android:layout_height="468dp"
+        android:layout_weight="1" />
+</LinearLayout>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SoundProcessingApp</string>
+    <string name="app">Record and Manage!</string>
+    <string name="rec">Record</string>
+    <string name="man">Manage</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="save">Save</string>
+    <string name="res">Reset</string>
+    <string name="recs">Recordings</string>
+    <string name="title">Title: </string>
+    <string name="desc">Description:</string>
+    <string name="nam">First name:</string>
+    <string name="sur">Second name:</string>
+
+    <string name="concat">Concatenate</string>
+    <string name="play">Play</string>
+    <string name="del">Delete</string>
+    <string name="paun">Pause/Unpause</string>
+</resources>
